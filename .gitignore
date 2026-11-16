@@ -1,0 +1,6 @@
+/aishell3/
+/processed_data/
+/processed_data_10pct/
+
+.DS_Store
+.ipynb_checkpoints/
